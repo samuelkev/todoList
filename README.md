@@ -1,4 +1,4 @@
-Este é um aplicativo simples de To-Do List feito com Flutter. Ele permite adicionar, remover e marcar tarefas como concluídas. O app foi criado com o objetivo de praticar desenvolvimento mobile com Flutter e gerenciamento de estado.
+** Este é um aplicativo simples de To-Do List feito com Flutter. Ele permite adicionar, remover e marcar tarefas como concluídas. O app foi criado com o objetivo de praticar desenvolvimento mobile com Flutter e gerenciamento de estado.
 
 ## Funcionalidades
 
